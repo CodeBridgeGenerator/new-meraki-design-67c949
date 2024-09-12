@@ -1,0 +1,59 @@
+[
+  {
+    "name": "onDynaLoader",
+    "subject": "Data Loader Completed",
+    "body": "The Job Id : {{id}}",
+    "variables": [
+      "id"
+    ],
+    "createdAt": {
+      "$date": "2024-07-13T06:26:14.213Z"
+    },
+    "updatedAt": {
+      "$date": "2024-07-13T06:26:14.213Z"
+    }
+  },
+  {
+    "name": "onCodeVerify",
+    "subject": "Email Verification Code",
+    "body": "<p>Hi {{name}},</p><p><br></p><p><br></p><p>Your email verification is required.</p><p><br></p><p><br></p><p><strong>The Verification Code : {{code}}</strong></p><p><br></p><p><strong><span class=\"ql-cursor\">﻿</span></strong></p><p><br></p><p>This is an automated email.</p>",
+    "variables": [
+      "id"
+    ],
+    "createdAt": {
+      "$date": "2024-07-13T06:26:14.213Z"
+    },
+    "updatedAt": {
+      "$date": "2024-07-20T05:54:01.959Z"
+    }
+  },
+  {
+    "name": "onUserConfirmation",
+    "subject": "Data Loader Completed",
+    "body": "The Job Id : {{id}}",
+    "variables": [
+      "id"
+    ],
+    "createdAt": {
+      "$date": "2024-07-13T06:26:14.213Z"
+    },
+    "updatedAt": {
+      "$date": "2024-07-13T06:26:14.213Z"
+    }
+  },
+  {
+
+    "name": "onWelcomeEmail",
+    "subject": "Data Loader Completed",
+    "body": "The Job Id : {{id}}",
+    "variables": [
+      "id"
+    ],
+    "createdAt": {
+      "$date": "2024-07-13T06:26:14.213Z"
+    },
+    "updatedAt": {
+      "$date": "2024-07-21T03:33:25.371Z"
+    }
+  }
+]

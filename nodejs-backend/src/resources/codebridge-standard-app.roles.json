@@ -1,0 +1,55 @@
+[{
+  "name": "Staff",
+  "description": "Internal Users of the company",
+  "isDefault": false,
+  "createdAt": {
+    "$date": "2024-08-12T08:32:49.212Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:32:49.212Z"
+  }
+},
+{
+  "name": "External",
+  "description": "External user that have limited access to the system",
+  "isDefault": true,
+  "createdAt": {
+    "$date": "2024-08-12T08:32:49.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:32:49.235Z"
+  }
+},
+{
+  "name": "Developer",
+  "description": "For the developer to manage the bugs and maintenance",
+  "isDefault": false,
+  "createdAt": {
+    "$date": "2024-08-12T08:32:49.249Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:32:49.249Z"
+  }
+},
+{
+  "name": "Super",
+  "description": "Super user that is capable of all functions and features.",
+  "isDefault": false,
+  "createdAt": {
+    "$date": "2024-08-12T08:32:49.268Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:32:49.268Z"
+  }
+},
+{
+  "name": "Admin",
+  "description": "Internal staff user that is responsible for first level support and system maintenance.",
+  "isDefault": false,
+  "createdAt": {
+    "$date": "2024-08-12T08:32:49.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-12T08:32:49.283Z"
+  }
+}]
